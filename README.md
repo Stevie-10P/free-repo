@@ -11,3 +11,6 @@ github_pat_11A6FLI4Y0MSRcV2G3USkj_zR9nr4ltURWAHHfi5HVM9F80mz7MRt6rl3HTGhNIjUi6JX
 test user name password leak
 stevie-test-leak
 kynfeg-wanmok-3daNpi
+
+
+http://stevie-test-leak:kynfeg-wanmok-3daNpi@github.com
