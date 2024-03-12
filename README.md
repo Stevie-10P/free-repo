@@ -16,3 +16,5 @@ kynfeg-wanmok-3daNpi
 http://stevie-test-leak:kynfeg-wanmok-3daNpi@github.com
 
 added `ghp Kok5y6cdAjgZTRdym4LrUZNU0cMaAC0YGXdf` as `git config user.name`, should get revoked automatically
+
+added username and password in `git config user.name` and `git config user.email`
