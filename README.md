@@ -18,3 +18,11 @@ http://stevie-test-leak:kynfeg-wanmok-3daNpi@github.com
 added `ghp Kok5y6cdAjgZTRdym4LrUZNU0cMaAC0YGXdf` as `git config user.name`, should get revoked automatically
 
 added username and password in `git config user.name` and `git config user.email`
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACCSVj3wfH8aFS3GEAGi1pLpv7Y0Saimki1Kh/VWNN/siAAAAJjWgc511oHO
+dQAAAAtzc2gtZWQyNTUxOQAAACCSVj3wfH8aFS3GEAGi1pLpv7Y0Saimki1Kh/VWNN/siA
+AAAEAKn3XINxjq9DC34R626mP1odd/QiR5XSV4nOjxNTwwQpJWPfB8fxoVLcYQAaLWkum/
+tjRJqKaSLUqH9VY03+yIAAAAE21vbmFsaXNhQGdpdGh1Yi5jb20BAg==
+-----END OPENSSH PRIVATE KEY-----
