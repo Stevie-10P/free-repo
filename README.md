@@ -1,5 +1,7 @@
 # free-repo (713581068)
 
+test secrets or publicly leaked secrets
+
 secret_scanning_ab85fc6f8d7638cf1c11da812da308d43_00006
 
 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
@@ -44,3 +46,5 @@ tjRJqKaSLUqH9VY03+yIAAAAE21vbmFsaXNhQGdpdGh1Yi5jb20BAg==
 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
 
 aio_HKhn497s5qA21gC1iwSn4V5qTjV0
+
+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
